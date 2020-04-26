@@ -1,5 +1,5 @@
 # Tencent_class_check_in
-emmmm这就是一个用在腾讯课堂自动签到的脚本。目的就是为了能在**一些不那么重要的课**上可以去睡大觉而不错过签到。如果是一些重要的课的话还是**建议不要睡觉了**。我只是迫不得已。:laughing::stuck_out_tongue_closed_eyes::laughing:
+emmmm这就是一个用在腾讯课堂自动签到的脚本。目的就是为了能在**一些不那么重要的课**上可以去睡大觉而不错过签到。如果是一些重要的课的话还是**建议不要睡觉了**。我只是迫不得已。:laughing::stuck_out_tongue_closed_eyes::laughing:。前期只是简单的签到，后来加上了识别跟保存签到成功的证据图片。就很有意思:sunglasses:。  
 	
 |Author|苏一休|
 |---|---
